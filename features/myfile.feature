@@ -1,4 +1,4 @@
 test sych MIXED
 
 valami1
-mod3
+mod4
